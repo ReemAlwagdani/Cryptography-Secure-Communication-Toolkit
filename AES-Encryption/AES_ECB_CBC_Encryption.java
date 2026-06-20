@@ -13,7 +13,7 @@ import java.security.SecureRandom;
 import java.util.Base64;
 import javax.swing.JOptionPane;
 
-public class GradedLab2_ReemAlwagdani_2323653_IAR {
+public class AES_ECB_CBC_Encryption {
     
     // AES block size = 16 bytes (128 bits)
     private static final int BLOCK_SIZE = 16;
