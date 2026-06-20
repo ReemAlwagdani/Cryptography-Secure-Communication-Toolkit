@@ -5,7 +5,7 @@ import java.security.*;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class GradedLab3_ReemAlwagdani_2323653_IAR {
+public class RSA_Digital_Signature {
 
     public static void main(String[] args) throws Exception {
          Scanner input = new Scanner(System.in);
