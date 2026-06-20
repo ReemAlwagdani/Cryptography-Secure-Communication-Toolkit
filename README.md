@@ -1,14 +1,14 @@
-# Cryptography & Secure Communication Toolkit
+Cryptography & Secure Communication Toolkit
 
 A collection of Java-based cryptography projects demonstrating encryption, hashing, digital signatures, and secure communication concepts.
 
-## Projects
+Projects:
 - Vigenere Cipher (Swing GUI)
 - AES Encryption (ECB & CBC Modes)
 - RSA Digital Signatures
 - Message Digest (SHA-256 & SHA-512)
 
-## Technologies Used
+Technologies Used:
 - Java
 - Java Swing
 - Java Cryptography Architecture (JCA)
