@@ -6,9 +6,8 @@ import java.security.NoSuchAlgorithmException;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class GradedLab4_ReemAlwagdani_2323653_IAR {
+public class SHA_Message_Digest {
 /**
- * Graded Lab 4
  * Message Digest using SHA-256 and SHA-512
  * 
  * This program accepts three strings from the user
