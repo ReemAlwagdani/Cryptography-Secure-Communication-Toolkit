@@ -1,9 +1,9 @@
-# AES Encryption
+AES Encryption
 
-## Overview
+Overview:
 Java implementation of AES encryption demonstrating the differences between ECB and CBC modes.
 
-## Features
+Features:
 - AES Encryption
 - AES Decryption
 - ECB Mode
@@ -11,12 +11,12 @@ Java implementation of AES encryption demonstrating the differences between ECB 
 - Random IV Generation
 - Base64 Output Encoding
 
-## Technologies Used
+Technologies Used:
 - Java
 - Java Cryptography Architecture (JCA)
 - AES Algorithm
 
-## Learning Outcomes
+Learning Outcomes:
 - Symmetric Encryption
 - Block Cipher Modes
 - Initialization Vectors (IV)
