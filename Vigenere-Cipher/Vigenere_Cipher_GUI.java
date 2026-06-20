@@ -5,7 +5,7 @@
 //GradedLab1
 
 
-public class GradedLab1_ReemAlwagdani_2323653_IAR extends javax.swing.JFrame {
+public class Vigenere_Cipher_GUI extends javax.swing.JFrame {
     
     String plaintext = "";
     String ciphertext = "";
