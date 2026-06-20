@@ -15,7 +15,7 @@ import javax.swing.JOptionPane;
 
 public class AES_ECB_CBC_Encryption {
     
-    // AES block size = 16 bytes (128 bits)
+    // AES block size = 16 bytes (128 bits).
     private static final int BLOCK_SIZE = 16;
 
     public static void main(String[] args) {
